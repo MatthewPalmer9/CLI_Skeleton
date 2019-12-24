@@ -1,1 +1,4 @@
 #!/usr/bin/env ruby
+
+#add the line that starts an instance of your class file here
+#Example: SomeClass.new.run
